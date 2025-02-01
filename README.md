@@ -1,4 +1,4 @@
-# Helth & Wellbeing Dashboard
+# Health & Wellbeing Dashboard
 
 ### Dashboard Link : https://app.powerbi.com/links/qqroYgwU3-?ctid=d497a5e3-67a7-459c-aca8-0c6a8675d124&pbi_source=linkShare
 
